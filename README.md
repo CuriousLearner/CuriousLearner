@@ -1,0 +1,42 @@
+### Hi there 👋
+
+#### I'm Sanyam Khurana [Pronounced as: Sah-yum  ku-ra-na (/sah jəm ku ra na/)].
+
+You might have seen me contributing to open source projects with the name `CuriousLearner`. 
+I've been contributing code to Open Source for the past six years & some of my noticeable contributions are in 
+CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Mozilla's Gecko Engine, etc. 
+I have also spoken at various International conferences sharing my learnings with the community at large.
+
+- 🔭 I’m currently working on Python/Django.
+- 🌱 I’m currently learning AI for Robotics & working on a few side projects related to the core algorithms used in a self-driving car.
+- 💬 Ask me anything about ML / AI / Backend Development / Public Speaking / Cloud
+- 📫 How to reach me: Sanyam@SanyamKhurana.com
+- 😄 My website: https://SanyamKhurana.com
+- ⚡ Fun fact: If you ever mistakenly use `print` in Python3 as a statement (instead of a function) and see the line `Did you mean <python3 syntax of code>`, I added that feature in Python.
+- 😄 Pronouns: He/Him
+- I help individuals and companies with code-reviews and stepping up their game with Python. If you want to write clean & efficient code with Python/Django/DRF or looking for tips on dev productivity with Python, please drop me an email.
+
+<!--
+**CuriousLearner/CuriousLearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuriousLearner)
+
+#### I am the maintainer of these packages & would highly appreciate your help in improvising these
+
+![Django Phone Verify](https://github-readme-stats.vercel.app/api/pin/?username=curiouslearner&repo=django-phone-verify&show_icons=true)
+
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=curiouslearner" id="counter">
+</p>
