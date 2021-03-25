@@ -38,5 +38,9 @@ Here are some ideas to get you started:
 ![Django Phone Verify](https://github-readme-stats.vercel.app/api/pin/?username=curiouslearner&repo=django-phone-verify&show_icons=true)
 
 <p align="center">
+    <a href="https://www.buymeacoffee.com/curiouslearner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
+
+<p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=curiouslearner" id="counter">
 </p>
