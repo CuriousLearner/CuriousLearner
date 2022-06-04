@@ -3,13 +3,13 @@
 #### I'm Sanyam Khurana [Pronounced as: Sah-yum  ku-ra-na (/sah jəm ku ra na/)].
 
 You might have seen me contributing to open source projects with the name `CuriousLearner`. 
-I've been contributing code to Open Source for the past six years & some of my noticeable contributions are in 
+I've been contributing code to Open Source for the past eight years & some of my noticeable contributions are in 
 CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Mozilla's Gecko Engine, etc. 
 I have also spoken at various International conferences sharing my learnings with the community at large.
 
-- 🔭 I’m currently working on Python/Django.
-- 🌱 I’m currently learning AI for Robotics & working on a few side projects related to the core algorithms used in a self-driving car.
-- 💬 Ask me anything about ML / AI / Backend Development / Public Speaking / Cloud
+- 🔭 I’m currently working on Python/Django/NodeJS.
+- 🌱 I’m currently learning TypeScript.
+- 💬 Ask me anything about ML / AI / Backend Development / Public Speaking / Cloud.
 - 📫 How to reach me: Sanyam@SanyamKhurana.com
 - 😄 My website: https://SanyamKhurana.com
 - ⚡ Fun fact: If you ever mistakenly use `print` in Python3 as a statement (instead of a function) and see the line `Did you mean <python3 syntax of code>`, I added that feature in Python.
