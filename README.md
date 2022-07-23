@@ -29,13 +29,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuriousLearner)
 
 #### I am the maintainer of these packages & would highly appreciate your help in improvising these
 
 ![Django Phone Verify](https://github-readme-stats.vercel.app/api/pin/?username=curiouslearner&repo=django-phone-verify&show_icons=true)
+-->
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/curiouslearner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
