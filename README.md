@@ -8,6 +8,8 @@ I've been contributing code to Open Source for the past eight years & some of my
 CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Mozilla's Gecko Engine, etc. 
 I have also spoken at various International conferences sharing my learnings with the community at large.
 
+I help individuals and companies with code-reviews and stepping up their game with Python. If you want to write clean & efficient code with Python/Django/DRF or looking for tips on dev productivity with Python, please drop me an email.
+
 - 🔭 I’m currently working on Python/Django/NodeJS.
 - 🌱 I’m currently learning ReactJS.
 - 💬 Ask me anything about ML / AI / Backend Development / Public Speaking / Cloud.
@@ -16,8 +18,6 @@ I have also spoken at various International conferences sharing my learnings wit
 - 🧙‍♂️ My Mastadon: https://mastodon.social/@curiouslearner
 - ⚡ Fun fact: If you ever mistakenly use `print` in Python3 as a statement (instead of a function) and see the line `Did you mean <python3 syntax of code>`, I added that feature in Python.
 - 😄 Pronouns: He/Him
-
-I help individuals and companies with code-reviews and stepping up their game with Python. If you want to write clean & efficient code with Python/Django/DRF or looking for tips on dev productivity with Python, please drop me an email.
 
 <!--
 **CuriousLearner/CuriousLearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuriousLearner)
-
 #### I am the maintainer of these packages & would highly appreciate your help in improvising these
 
 ![Django Phone Verify](https://github-readme-stats.vercel.app/api/pin/?username=curiouslearner&repo=django-phone-verify&show_icons=true)
 -->
+
+![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiouslearner&count_private=true&hide=contribs&show_icons=true)
 
 If you'd like to support my Open Source work, you can checkout the `Buy Me A Coffee` link below. Thanks ✨
 
