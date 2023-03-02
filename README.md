@@ -4,8 +4,8 @@
 
 You might have seen me contributing to open source projects with the name `CuriousLearner`. I graduated from
 Georgia Tech, Atlanta, US with a Master's degree in Computer Science.
-I've been contributing code to Open Source for the past eight years & some of my noticeable contributions are in 
-CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Mozilla's Gecko Engine, etc. 
+I've been contributing code to Open Source for the past eight years & some of my noticeable contributions are in
+CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Mozilla's Gecko Engine, etc.
 I have also spoken at various International conferences sharing my learnings with the community at large.
 
 I help individuals and companies with code-reviews and stepping up their game with Python. If you want to write clean & efficient code with Python/Django/DRF or looking for tips on dev productivity with Python, please drop me an email.
@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 -->
 
 ![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiouslearner&count_private=true&hide=contribs&show_icons=true)
+
+I'm proud to share my Open-source contributions & other stats with you on public sites:
+
+![Metrics](/github-metrics.svg)
 
 If you'd like to support my Open Source work, you can checkout the `Buy Me A Coffee` link below. Thanks ✨
 
