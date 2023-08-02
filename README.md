@@ -6,9 +6,9 @@ You may have come across my involvement in open-source initiatives under the ali
 
 I'd like to offer my assistance to individuals and companies seeking code reviews and seeking to elevate their Python proficiency. Whether it's striving to create clean and efficient code with Python/Django/DRF or seeking guidance on enhancing development productivity with Python, please feel free to contact me via email.
 
-- 🔭 I’m currently working on Python/Django/NodeJS.
-- 🌱 I’m currently learning ReactJS.
-- 💬 Ask me anything about ML / AI / Backend Development / Public Speaking / Cloud.
+🔭 Presently, I am actively engaged in projects involving Python, Django, and NodeJS.
+🌱 My ongoing pursuit involves delving into the realm of Golang, as I endeavor to expand my knowledge.
+💬 Feel free to ask me anything related to Machine Learning, Artificial Intelligence, Backend Development, Public Speaking, or Cloud technologies; I am more than happy to share my insights and expertise!
 - 📫 How to reach me: Sanyam@SanyamKhurana.com
 - 😄 My website: https://SanyamKhurana.com
 - 🧙‍♂️ My Mastadon: https://mastodon.social/@curiouslearner
