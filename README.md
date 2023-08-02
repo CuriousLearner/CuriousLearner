@@ -1,14 +1,10 @@
-### Hi there 👋
+### Greetings! 👋
 
-#### I'm Sanyam Khurana [Pronounced as: Sah-yum  ku-ra-na (/sah jəm ku ra na/)].
+### I am Sanyam Khurana, and you can pronounce it as "Sah-yum ku-ra-na" (/sah jəm ku ra na/).
 
-You might have seen me contributing to open source projects with the name `CuriousLearner`. I graduated from
-Georgia Tech, Atlanta, US with a Master's degree in Computer Science.
-I've been contributing code to Open Source for the past eight years & some of my noticeable contributions are in
-CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Mozilla's Gecko Engine, etc.
-I have also spoken at various International conferences sharing my learnings with the community at large.
+You may have come across my involvement in open-source initiatives under the alias `CuriousLearner`. I hold a Master's degree in Computer Science from Georgia Tech, located in Atlanta, US. Over the span of nine years, I have been actively contributing code to Open Source projects, with noteworthy contributions made to prominent platforms such as CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Mozilla's Gecko Engine, among others. My expertise extends to speaking at numerous International conferences, where I share valuable insights and knowledge with the broader community.
 
-I help individuals and companies with code-reviews and stepping up their game with Python. If you want to write clean & efficient code with Python/Django/DRF or looking for tips on dev productivity with Python, please drop me an email.
+I'd like to offer my assistance to individuals and companies seeking code reviews and seeking to elevate their Python proficiency. Whether it's striving to create clean and efficient code with Python/Django/DRF or seeking guidance on enhancing development productivity with Python, please feel free to contact me via email.
 
 - 🔭 I’m currently working on Python/Django/NodeJS.
 - 🌱 I’m currently learning ReactJS.
@@ -16,7 +12,7 @@ I help individuals and companies with code-reviews and stepping up their game wi
 - 📫 How to reach me: Sanyam@SanyamKhurana.com
 - 😄 My website: https://SanyamKhurana.com
 - 🧙‍♂️ My Mastadon: https://mastodon.social/@curiouslearner
-- ⚡ Fun fact: If you ever mistakenly use `print` in Python3 as a statement (instead of a function) and see the line `Did you mean <python3 syntax of code>`, I added that feature in Python.
+- ⚡ Fun fact: In Python3, I've added a clever feature. If you accidentally use print incorrectly, Python will kindly suggest the right way to do it. It's my way of making coding a little friendlier for you!
 - 😄 Pronouns: He/Him
 
 <!--
@@ -41,11 +37,11 @@ Here are some ideas to get you started:
 
 ![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiouslearner&count_private=true&hide=contribs&show_icons=true)
 
-I'm proud to share my Open-source contributions & other stats with you on public sites:
+With great pride, I am delighted to disclose my Open-source contributions and other statistical accomplishments on public platforms:
 
 ![Metrics](/github-metrics.svg)
 
-If you'd like to support my Open Source work, you can checkout the `Buy Me A Coffee` link below. Thanks ✨
+In order to extend support to my Open Source endeavors, kindly consider exploring the provided `Buy Me A Coffee` link below. Your generosity will be greatly appreciated. ✨
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/curiouslearner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
