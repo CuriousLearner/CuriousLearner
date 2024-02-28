@@ -2,7 +2,7 @@
 
 ### I am Sanyam Khurana, and you can pronounce it as "Sah-yum ku-ra-na" (/sah jəm ku ra na/).
 
-You may have come across my involvement in open-source initiatives under the alias `CuriousLearner`. I hold a Master's degree in Computer Science from Georgia Tech, located in Atlanta, US. Over the span of nine years, I have been actively contributing code to Open Source projects, with noteworthy contributions made to prominent platforms such as CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Mozilla's Gecko Engine, among others. My expertise extends to speaking at numerous International conferences, where I share valuable insights and knowledge with the broader community.
+You may have come across my involvement in open-source initiatives under the alias `CuriousLearner`. I hold a Master's degree in Computer Science from Georgia Tech, located in Atlanta, US. Over ten years, I have been actively contributing code to Open Source projects, with noteworthy contributions made to prominent platforms such as CPython (Python's Interpreter), Django Web Framework, Django REST Framework, and Mozilla's Gecko Engine, among others. My expertise extends to speaking at numerous International conferences, where I share valuable insights and knowledge with the broader community.
 
 I'd like to offer my assistance to individuals and companies seeking code reviews and seeking to elevate their Python proficiency. Whether it's striving to create clean and efficient code with Python/Django/DRF or seeking guidance on enhancing development productivity with Python, please feel free to contact me via email.
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 #### I am the maintainer of these packages & would highly appreciate your help in improvising these
 
 ![Django Phone Verify](https://github-readme-stats.vercel.app/api/pin/?username=curiouslearner&repo=django-phone-verify&show_icons=true)
--->
+
 
 ![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiouslearner&count_private=true&hide=contribs&show_icons=true)
 
@@ -50,3 +50,4 @@ In order to extend support to my Open Source endeavors, kindly consider explorin
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=curiouslearner" id="counter">
 </p>
+-->
