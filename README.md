@@ -1,8 +1,9 @@
 ### Greetings! 👋
 
-### I am Sanyam Khurana, and you can pronounce it as **"Sah-yum ku-ra-na"** (/sah jəm ku ra na/).
+## 👋 Hi, I'm Sanyam Khurana!
+### *(Pronounced: **"Sah-yum ku-ra-na"** (/sah jəm ku ra na/))*
 
-I'm an **AWS Certified Solutions Architect**, **Backend Developer**, and passionate **Open Source Contributor** (_CPython, Django, DRF, Mozilla_). With **10+ years of experience**, I specialize in designing, implementing, and automating **robust cloud infrastructure** and **backend systems**.
+I'm an **AWS Certified Solutions Architect**, **Backend Engineer**, and **Open Source Contributor** (_CPython, Django, DRF, Mozilla_). With **10+ years of experience**, I **build scalable cloud infrastructure and robust backend systems, automating everything along the way**.
 
 ---
 
@@ -16,22 +17,23 @@ I'm an **AWS Certified Solutions Architect**, **Backend Developer**, and passion
 ---
 
 ## 🔄 What I Do Best:
-✔ **Build** scalable, secure, and automated cloud infrastructures.  
-✔ **Develop** robust, maintainable backend architectures (`Python` & `Golang`).  
+✔ **Architect and develop** scalable, high-performance backend systems (`Python` & `Golang`).  
+✔ **Build** secure, automated, and cloud-native infrastructures.  
 ✔ **Implement** end-to-end CI/CD pipelines (`GitHub Actions`, `GitLab CI`, `CircleCI`).  
-✔ **Mentor** developers and perform **code reviews** to enhance engineering practices.  
+✔ **Mentor** developers and conduct **code reviews** to refine engineering practices.  
 
 ---
 
 ## 📫 How to Reach Me:
-- 📧 **Email:** [Sanyam@SanyamKhurana.com](mailto:Sanyam@SanyamKhurana.com)  
-- 🌐 **Website:** [https://SanyamKhurana.com](https://SanyamKhurana.com)  
-- 🧙‍♂️ **Mastodon:** [https://mastodon.social/@curiouslearner](https://mastodon.social/@curiouslearner)  
+📧 **Email:** [Sanyam@SanyamKhurana.com](mailto:Sanyam@SanyamKhurana.com)  
+🌐 **Website:** [https://SanyamKhurana.com](https://SanyamKhurana.com)  
+🧙‍♂️ **Mastodon:** [https://mastodon.social/@curiouslearner](https://mastodon.social/@curiouslearner)  
 
 ---
 
 ## ⚡ Fun Fact:
-If you've ever seen Python suggest adding parentheses when you mistakenly write `print "hello"` instead of `print("hello")`, that's one of my contributions in the interpreter to making error messages more helpful! 🐍✨
+Ever typed `print "hello"` in Python 3 and got a helpful syntax error suggesting `print("hello")`? That’s **my contribution to CPython**—making Python’s error messages more user-friendly! 🐍✨  
+
 
 <!-- You may have come across my involvement in open-source initiatives under the alias `CuriousLearner`. I hold a Master's degree in Computer Science from Georgia Tech, located in Atlanta, US. Over ten years, I have been actively contributing code to Open Source projects, with noteworthy contributions made to prominent platforms such as CPython (Python's Interpreter), Django Web Framework, Django REST Framework, and Mozilla's Gecko Engine, among others. My expertise extends to speaking at numerous International conferences, where I share valuable insights and knowledge with the broader community.
 
