@@ -1,23 +1,23 @@
 ### Greetings! 👋
 
-## 👋 Hi, I'm Sanyam Khurana!
+## 👋 Hi, I'm Sanyam Khurana!  
 ### *(Pronounced: **"Sah-yum ku-ra-na"** (/sah jəm ku ra na/))*
 
-I'm an **AWS Certified Solutions Architect**, **Backend Engineer**, and **Open Source Contributor** (_CPython, Django, DRF, Mozilla_). With **10+ years of experience**, I **build scalable cloud infrastructure and robust backend systems, automating everything along the way**.
+I'm a **Fractional Principal Engineer**, **AWS Certified Solutions Architect**, and **Open Source Contributor** (_CPython, Django, DRF, Mozilla_). With **10+ years of experience**, I **build scalable cloud infrastructure and robust backend systems, automating everything along the way**.
 
 ---
 
 ## 🚀 My Expertise:
-- **Programming:** `Python`, `Django`, `Golang`, `JavaScript`
-- **DevOps & Cloud:** `AWS architecture`, `Terraform`, `Terragrunt`, `Ansible`, `Docker`
-- **CI/CD Pipelines:** `GitHub Actions`, `GitLab CI/CD`, `CircleCI`
-- **Infrastructure as Code:** `Terraform`, `Terragrunt`, `CloudFormation`
-- **Database & Messaging:** `PostgreSQL`, `Redis`, `MongoDB`, `Celery`, `GraphQL`
+- **Languages & Frameworks:** `Python`, `Django`, `Golang`, `JavaScript`
+- **Infrastructure & DevOps:** `AWS`, `Terraform`, `Terragrunt`, `Docker`, `Ansible`, `CloudFormation`
+- **CI/CD & Automation:** `GitHub Actions`, `GitLab CI/CD`, `CircleCI`
+- **Databases & Queues:** `PostgreSQL`, `MongoDB`, `Redis`, `Celery`
+- **API & Communication:** `GraphQL`, `REST`, `WebSockets`
 
 ---
 
 ## 🔄 What I Do Best:
-✔ **Architect and develop** scalable, high-performance backend systems (`Python` & `Golang`).  
+✔ As a **Fractional Principal Engineer**, I partner with fast-moving teams to **architect and develop** scalable, high-performance backend systems (`Python` & `Golang`).  
 ✔ **Build** secure, automated, and cloud-native infrastructures.  
 ✔ **Implement** end-to-end CI/CD pipelines (`GitHub Actions`, `GitLab CI`, `CircleCI`).  
 ✔ **Mentor** developers and conduct **code reviews** to refine engineering practices.  
@@ -32,7 +32,7 @@ I'm an **AWS Certified Solutions Architect**, **Backend Engineer**, and **Open S
 ---
 
 ## ⚡ Fun Fact:
-Ever typed `print "hello"` in Python 3 and got a helpful syntax error suggesting `print("hello")`? That’s **my contribution to CPython**—making Python’s error messages more user-friendly! 🐍✨  
+Ever typed `print "hello"` in Python 3 and got a helpful syntax error suggesting `print("hello")`? That’s **my contribution to CPython**—making Python’s error messages more user-friendly! 🐍✨
 
 
 <!-- You may have come across my involvement in open-source initiatives under the alias `CuriousLearner`. I hold a Master's degree in Computer Science from Georgia Tech, located in Atlanta, US. Over ten years, I have been actively contributing code to Open Source projects, with noteworthy contributions made to prominent platforms such as CPython (Python's Interpreter), Django Web Framework, Django REST Framework, and Mozilla's Gecko Engine, among others. My expertise extends to speaking at numerous International conferences, where I share valuable insights and knowledge with the broader community.
