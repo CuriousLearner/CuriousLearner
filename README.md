@@ -1,4 +1,50 @@
-### Greetings! 👋
+# Sanyam Khurana (aka **CuriousLearner**)
+*(Pronounced: **Sah-yum Ku-ra-na** /ˈsɑː jəm ku ˈrɑː nə/)*
+
+**Principal Engineer & Cloud Architect · Open Source Contributor (CPython, Django, DRF, Mozilla)**  
+
+I'm a Principal Engineer and AWS Certified Solutions Architect with over 10 years of experience building scalable, cloud-native backend systems. I specialize in architecting high-performance infrastructure using Python, Django, Golang, AWS, and modern DevOps practices.
+
+I hold a Master of Science in Computer Science with specialization in Machine Learning and Interactive Intelligence from Georgia Institute of Technology. My journey as a "community-taught" programmer instilled in me a deep appreciation for knowledge sharing and continuous learning.
+
+I'm passionate about Open Source. I've contributed to CPython, Django, Django REST Framework, and Mozilla projects. Ever typed `print "hello"` in Python 3 and got a helpful syntax error suggesting `Did you mean print("hello")?` That's one of my contributions to CPython; making Python's error messages more user-friendly! I was granted bug-triaging access on [bugs.python.org](https://bugs.python.org/) and I'm featured on [Mozilla Credits](https://mozilla.org/credits).
+
+Beyond coding, I'm committed to giving back to the community. I serve as a Google Summer of Code Mentor at Debian, speak at international conferences, and mentor developers worldwide. I'm a vouched Mozillian and an active contributor to the Python and Django communities.
+
+---
+
+## 🛠️ Core Expertise
+- **Languages & Frameworks:** `Python`, `Django`, `Golang`, `JavaScript`
+- **Cloud & Infra:** `AWS`, `Terraform`, `Terragrunt`, `Docker`, `Ansible`, `CloudFormation`
+- **Platform & Automation:** `GitHub Actions`, `GitLab CI/CD`, `CircleCI`
+- **Data & Queues:** `PostgreSQL`, `MongoDB`, `Redis`, `Celery`
+- **APIs & Realtime:** `REST`, `GraphQL`, `WebSockets`
+
+---
+
+## 🚀 How I Help Teams
+- **Architecture & Delivery:** Design and implement resilient, cost-efficient, **cloud-native backends** (Python/Golang) and the **infrastructure** to run them.
+- **DevEx & Velocity:** Build **end-to-end CI/CD** pipelines, automate testing/release flows, and harden supply chains.
+- **Scale & Reliability:** Performance tuning, observability, and pragmatic SRE practices.
+- **Technical Leadership:** Mentor engineers, run design reviews, establish coding standards, and drive roadmaps as a **Principal Engineer**.
+
+---
+
+## 📬 Get in Touch
+- **Email:** [Sanyam@SanyamKhurana.com](mailto:Sanyam@SanyamKhurana.com)  
+- **Website:** [https://SanyamKhurana.com](https://SanyamKhurana.com)  
+- **Mastodon:** [@curiouslearner@mastodon.social](https://mastodon.social/@curiouslearner)
+
+> Also available for fractional engagements.
+
+---
+
+## ⚡ Fun Fact
+That friendly Python tip when you accidentally write `print "hello"` in Python 3—suggesting `print("hello")` is **my contribution to CPython** to make errors more helpful for everyone.
+
+
+
+<!--### Greetings! 👋
 
 ## 👋 Hi, I'm Sanyam Khurana!  
 ### *(Pronounced: **"Sah-yum ku-ra-na"** (/sah jəm ku ra na/))*
@@ -35,7 +81,7 @@ I'm a **Fractional Principal Engineer**, **AWS Certified Solutions Architect**, 
 Ever typed `print "hello"` in Python 3 and got a helpful syntax error suggesting `print("hello")`? That’s **my contribution to CPython**—making Python’s error messages more user-friendly! 🐍✨
 
 
-<!-- You may have come across my involvement in open-source initiatives under the alias `CuriousLearner`. I hold a Master's degree in Computer Science from Georgia Tech, located in Atlanta, US. Over ten years, I have been actively contributing code to Open Source projects, with noteworthy contributions made to prominent platforms such as CPython (Python's Interpreter), Django Web Framework, Django REST Framework, and Mozilla's Gecko Engine, among others. My expertise extends to speaking at numerous International conferences, where I share valuable insights and knowledge with the broader community.
+You may have come across my involvement in open-source initiatives under the alias `CuriousLearner`. I hold a Master's degree in Computer Science from Georgia Tech, located in Atlanta, US. Over ten years, I have been actively contributing code to Open Source projects, with noteworthy contributions made to prominent platforms such as CPython (Python's Interpreter), Django Web Framework, Django REST Framework, and Mozilla's Gecko Engine, among others. My expertise extends to speaking at numerous International conferences, where I share valuable insights and knowledge with the broader community.
 
 I'd like to offer my assistance to individuals and companies seeking code reviews and seeking to elevate their Python proficiency. Whether it's striving to create clean and efficient code with Python/Django/DRF or seeking guidance on enhancing development productivity with Python, please feel free to contact me via email.
 
@@ -48,9 +94,7 @@ I'd like to offer my assistance to individuals and companies seeking code review
 - ⚡ Fun fact: In Python3, I've added a clever feature. If you accidentally use print incorrectly, Python will kindly suggest the right way to do it. It's my way of making coding a little friendlier for you!
 - 😄 Pronouns: He/Him
 
--->
 
-<!--
 **CuriousLearner/CuriousLearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
