@@ -39,8 +39,22 @@ Beyond coding, I'm committed to giving back to the community. I serve as a Googl
 
 ---
 
+
+![Sanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiouslearner&count_private=true&hide=contribs&show_icons=true)
+
+With great pride, I am delighted to disclose my Open-source contributions and other statistical accomplishments on public platforms:
+
+![Metrics](/github-metrics.svg)
+
+
+---
+
 ## ⚡ Fun Fact
 That friendly Python tip when you accidentally write `print "hello"` in Python 3—suggesting `print("hello")` is **my contribution to CPython** to make errors more helpful for everyone.
+
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=curiouslearner" id="counter">
+</p>
 
 
 
