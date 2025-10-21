@@ -4,7 +4,7 @@
 **Principal Engineer & Cloud Architect · Open Source Contributor (CPython, Django, DRF, Mozilla)**  
 
 > [!IMPORTANT]
-> You're in luck! Immediate availability: Backend–DevOps (freelance/contract/full-time).
+> You're in luck! Immediate availability: Backend–DevOps (freelance/contract/full-time). Email now at: [Sanyam@SanyamKhurana.com](mailto:Sanyam@SanyamKhurana.com)  
 
 I'm a Principal Engineer and AWS Certified Solutions Architect with over 10 years of experience building scalable, cloud-native backend systems. I specialize in architecting high-performance infrastructure using Python, Django, Golang, AWS, and modern DevOps practices.
 
