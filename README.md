@@ -3,6 +3,9 @@
 
 **Principal Engineer & Cloud Architect · Open Source Contributor (CPython, Django, DRF, Mozilla)**  
 
+> [!IMPORTANT]
+> You're in luck! Immediate availability: Backend–DevOps (freelance/contract/full-time).
+
 I'm a Principal Engineer and AWS Certified Solutions Architect with over 10 years of experience building scalable, cloud-native backend systems. I specialize in architecting high-performance infrastructure using Python, Django, Golang, AWS, and modern DevOps practices.
 
 I hold a Master of Science in Computer Science with specialization in Machine Learning and Interactive Intelligence from Georgia Institute of Technology. My journey as a "community-taught" programmer instilled in me a deep appreciation for knowledge sharing and continuous learning.
