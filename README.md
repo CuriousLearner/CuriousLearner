@@ -40,6 +40,7 @@ Beyond coding, I'm committed to giving back to the community. I serve as a Googl
 
 > Also available for fractional engagements.
 
+<!--
 ---
 
 
@@ -48,12 +49,12 @@ Beyond coding, I'm committed to giving back to the community. I serve as a Googl
 With great pride, I am delighted to disclose my Open-source contributions and other statistical accomplishments on public platforms:
 
 ![Metrics](/github-metrics.svg)
-
+-->
 
 ---
 
 ## ⚡ Fun Fact
-That friendly Python tip when you accidentally write `print "hello"` in Python 3—suggesting `print("hello")` is **my contribution to CPython** to make errors more helpful for everyone.
+That friendly Python tip when you accidentally write `print "hello"` in Python 3—suggesting `Did you mean print("hello")` is **my contribution to CPython** to make errors more helpful for everyone.
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=curiouslearner" id="counter">
