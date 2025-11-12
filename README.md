@@ -1,12 +1,13 @@
 # Sanyam Khurana (aka **CuriousLearner**)
 *(Pronounced: **Sah-yum Ku-ra-na** /ˈsɑː jəm ku ˈrɑː nə/)*
+ 
+**Principal Engineer & Cloud Architect · AWS Solutions Architect & Certified Kubernetes Administrator · Open Source Contributor (CPython, Django, DRF, Mozilla)**  
 
-**Principal Engineer & Cloud Architect · Open Source Contributor (CPython, Django, DRF, Mozilla)**  
 
 > [!IMPORTANT]
 > You're in luck! Immediate availability: Backend–DevOps (freelance/contract/full-time). Email now at: [Sanyam@SanyamKhurana.com](mailto:Sanyam@SanyamKhurana.com)  
 
-I'm a Principal Engineer and AWS Certified Solutions Architect with over 10 years of experience building scalable, cloud-native backend systems. I specialize in architecting high-performance infrastructure using Python, Django, Golang, AWS, and modern DevOps practices.
+I'm a Principal Engineer, **AWS Certified Solutions Architect** and **Certified Kubernetes Administrator (CKA)** with over 10 years of experience building scalable, cloud-native backend systems. I specialize in architecting high-performance infrastructure using Python, Django, Golang, AWS, Kubernetes, and modern DevOps practices.
 
 I hold a Master of Science in Computer Science with specialization in Machine Learning and Interactive Intelligence from Georgia Institute of Technology. My journey as a "community-taught" programmer instilled in me a deep appreciation for knowledge sharing and continuous learning.
 
