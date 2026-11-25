@@ -18,7 +18,7 @@ Beyond coding, I'm committed to giving back to the community. I serve as a Googl
 ---
 
 ## 🛠️ Core Expertise
-- **Languages & Frameworks:** `Python`, `Django`, `FastAPI`, `Django Ninja`, `Wagtail`, `Ruby on Rails`, `Golang`, `JavaScript`, `HTMX`
+- **Languages & Frameworks:** `Python`, `Django`, `FastAPI`, `Django Ninja`, `Wagtail`, `Ruby on Rails`, `Golang`, `JavaScript`, `React`, `HTMX`
 - **Data & ML:** `Airflow`, `Databricks`, `pandas`, `NumPy`, `SciPy`, `Knowledge Graphs (RDF, SPARQL)`
 - **AI & LLMs:** `Pydantic AI`, `LLM Evals`, `OpenAI`, `Anthropic`, `OpenRouter`
 - **Cloud & Infra:** `AWS (ECS, Step Functions, SQS, EventBridge)`, `Kubernetes`, `Helm`, `Terraform`, `OpenTofu`, `Terragrunt`, `Docker`, `Ansible`, `CloudFormation`, `Fly.io`
